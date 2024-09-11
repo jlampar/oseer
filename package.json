@@ -1,6 +1,6 @@
 {
   "name": "oseer",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A Node.js CLI tool to help you roll your Ability Scores for 'Old-School Essentials' and quickly inspect all the modifiers.",
   "type": "commonjs",
   "main": "./dist/index.js",
@@ -16,7 +16,7 @@
   "author": "Jakub Lamparski (jlampar)",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/oseer/oseer.git"
+    "url": "git+ssh://git@github.com/jlampar/oseer.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
