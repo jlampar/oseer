@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img alt="oseer art banner" style="max-height:100px" src="https://raw.githubusercontent.com/jlampar/oseer/main/src/assets/oseer_readme_banner.png">
+  <img alt="oseer art banner" style="max-height:100px" src="https://github.com/jlampar/oseer/blob/ecb19aeabebacb8f1ecfa20e231b95a4bd9c6ff9/src/assets/oseer_readme_banner.png?raw=true">
 </div>
 <br/>
 
@@ -88,13 +88,13 @@ After starting the tool without providing any CLI flags (discussed later) it'll 
 After all of the above prompts are addressed, the tool will display the final result in the following form:
 
 <div align="center">
-  <img alt="analyze" src="https://raw.githubusercontent.com/jlampar/oseer/main/src/assets/analyze.png">
+  <img alt="analyze" src="https://github.com/jlampar/oseer/blob/ecb19aeabebacb8f1ecfa20e231b95a4bd9c6ff9/src/assets/analyze.png?raw=true">
 </div>
 
 If you decided that the Oseer should pick a class for you, the result may look like this:
 
 <div align="center">
-  <img alt="pick" src="https://raw.githubusercontent.com/jlampar/oseer/main/src/assets/pick.png">
+  <img alt="pick" src="https://github.com/jlampar/oseer/blob/ecb19aeabebacb8f1ecfa20e231b95a4bd9c6ff9/src/assets/pick.png?raw=true">
 </div>
 
 ### CLI Options:
@@ -208,7 +208,7 @@ Please use the [issue tracker](https://github.com/jlampar/oseer/issues) to repor
 ## Legal
 
 <div align="center">
-  <img alt="Designed for use with OLD-SCHOOL ESSENTIALS" width="235px" src="https://raw.githubusercontent.com/jlampar/oseer/main/src/assets/designed_for_use_with_ose.png">
+  <img alt="Designed for use with OLD-SCHOOL ESSENTIALS" width="235px" src="https://github.com/jlampar/oseer/blob/ecb19aeabebacb8f1ecfa20e231b95a4bd9c6ff9/src/assets/designed_for_use_with_ose.png?raw=true">
 </div>
 <br/>
 
