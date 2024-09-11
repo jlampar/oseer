@@ -14,6 +14,10 @@
     "oseer": "./dist/index.js"
   },
   "author": "Jakub Lamparski (jlampar)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oseer/oseer.git"
+  },
   "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
     "@types/jest": "^29.5.11",
