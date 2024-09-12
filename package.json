@@ -1,6 +1,6 @@
 {
   "name": "oseer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A Node.js CLI tool to help you roll your Ability Scores for 'Old-School Essentials' and quickly inspect all the modifiers.",
   "type": "commonjs",
   "main": "./dist/index.js",
@@ -34,5 +34,10 @@
     "ora": "5.4.1",
     "yargs": "^17.7.2"
   },
-  "files": ["dist/*", "src/*", "!**/*.test.ts", "!src/assets"]
+  "files": [
+    "dist/*",
+    "src/*",
+    "!**/*.test.ts",
+    "!src/assets"
+  ]
 }

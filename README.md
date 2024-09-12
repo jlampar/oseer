@@ -10,7 +10,7 @@
   <a href="https://www.npmjs.com/package/oseer">
     <img src="https://img.shields.io/npm/v/oseer.svg?logo=npm" alt="NPM version"/>
   </a>
-  <a>
+  <a href="https://github.com/jlampar/oseer?tab=License-1-ov-file">
     <img src="https://img.shields.io/badge/license-Custom-377eb8" alt="License">
   </a>
   <a href="https://github.com/nodejs/node">
