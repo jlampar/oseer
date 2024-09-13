@@ -54,7 +54,7 @@ After cloning this git repository to your machine, install oseer by running `npm
 
 ### From npm
 
-The tool is also a published npm package that you can easily install by running `npm install -g oseer` globally on your machine. Afterwards, you can simply launch it with the command `oseer`. **This is probably the best way of using it.**
+The tool is also a published npm package that you can easily install by running `npm install -g oseer` on your machine. Afterwards, you can simply launch it with the command `oseer`. **This is probably the best way of using it.**
 
 ## Usage
 
@@ -116,7 +116,7 @@ The `--help` flag provides more context on the choices.
 
 ## Expanding the config files with homebrew content
 
-The tool is extensible and can be supplied with any OSE-compatibile class. If you wish to add anything homebrew:
+The tool is extensible and can be supplied with any OSE-compatibile class. If you wish to add anything homebrew, clone the repository, then:
 
 1. Add the name of a Class or Demi-Human Class to `Class.type.ts` or `DemiHumanClass.type.ts` from the `src/types` directory.
 
@@ -144,7 +144,7 @@ export type Class =
   | "new class"; // <-- the new class goes here
 ```
 
-2. Next, add the new class to the `homebrewClassesConfig.ts` or `homebrewDemiHumanClassesConfig.ts` config from the `src/config` directory. This will make the class available regardless of which class source is chosen in the first prompt, since the contents of these two configs are always appended to the config of the selected source.
+2. Add the new class to the `homebrewClassesConfig.ts` or `homebrewDemiHumanClassesConfig.ts` config from the `src/config` directory and next build the project (follow the `Local` installation guide from the `Installation and setup` chapter). This will make the class available regardless of which class source is chosen in the second prompt, since the contents of hombrew configs are always appended to the config of the selected source.
 
 **_Example:_**  
 You want to add a class that has the following requirements: minimum `STR 9`, minimum `INT 13`. Its Prime Requisite Modifier is `STR`. You can add it to the config file like this:
